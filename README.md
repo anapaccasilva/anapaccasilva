@@ -1,17 +1,17 @@
-![](https://i.pinimg.com/originals/29/a3/94/29a394da15c7fedd2cf7cc437dc10bb5.gif)
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ana Paula Pacca
-================================================================================================================================================
-
-Business Intelligence Specialist and DataViz Developer
+![](https://media4.giphy.com/media/uK3mEG7Yv6UhnGLNLt/200.gif) 
+Hi! My name is Ana Paula Pacca
 -------------------------------------------------------
+
+***Business Intelligence Specialist and Dataviz Developer***
+
+-------------------------------------------------------
+* 🌍 I'm 26yo and based in São Paulo, Brasil
 * 🌱 I’m currently learning Machine Learning
-* 🌍  I'm based in São Paulo, Brasil
 * :speaking_head: I am a ***Business Intelligence Specialist***, with 4 years of experience in PowerBI development and indicator management, and 5 years of experience working with financial planning and business management. My practical and academic contributions focus on efficiency and process improvement, seeking to find opportunities for optimizing results.
 * 💬 Ask me about **Python, R, SQL, M, DAX, PowerQuery, PowerBI**
 * :abc: You can talk to me in **Portuguese, English or Spanish**
-* ✉️  You can contact me at [ana.pacca.silva@gmail.com](mailto:ana.pacca.silva@gmail.com)
-* 📄 Know about my experiences  [https://www.linkedin.com/in/ana-paula-pacca/](https://www.linkedin.com/in/ana-paula-pacca/)
+* :e-mail:  You can contact me at [ana.pacca.silva@gmail.com](mailto:ana.pacca.silva@gmail.com)
+* :briefcase: Know about my experiences  [https://www.linkedin.com/in/ana-paula-pacca/](https://www.linkedin.com/in/ana-paula-pacca/)
 
 
 ### Skills
@@ -37,7 +37,7 @@ Business Intelligence Specialist and DataViz Developer
 
 <p align="left"> <a href="https://www.github.com/anapaccasilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-paula-pacca/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapaccasilva&show_icons=true&locale=en&layout=compact" alt="anapaccasilva" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&" alt="anapaccasilva" /></p>
