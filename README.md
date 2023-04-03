@@ -26,7 +26,7 @@ Hi! My name is Ana Paula Pacca
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="76" height="36" alt="PowerBI" /></a>
 <a href="https://www.powerapps.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white" width="86" height="36" alt="PowerAPPS" /></a>
-<a href="https://www.powervirtualagents.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white" width="96" height="36" alt="PowerVirtualAgents" /></a>
+<a href="https://www.powervirtualagents.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white" width="106" height="36" alt="PowerVirtualAgents" /></a>
 <a href="https://www.powerautomate.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white" width="96" height="36" alt="PowerAutomate" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" width="96" height="36" alt="Tableau" /></a>
 
