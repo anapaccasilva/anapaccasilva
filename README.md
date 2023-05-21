@@ -42,5 +42,11 @@ Hi! My name is Ana Paula Pacca
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapaccasilva&show_icons=true&locale=en&layout=compact" alt="anapaccasilva" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&" alt="anapaccasilva" /></p>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=anapaccasilva)
+
+### 😂 Here is a random joke that'll make you laugh!
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=vision-friendly-dark)](https://readme-jokes.vercel.app/api?theme=vision-friendly-dark)
+
+
 <!---
 https://home.aveek.io/GitHub-Profile-Badges/
