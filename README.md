@@ -38,7 +38,6 @@ Hi! My name is Ana Paula Pacca
 <p align="left"> <a href="https://www.github.com/anapaccasilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-paula-pacca/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wa.me/5511964963460" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-8CA4FB831E-seeklogo.com.png" width="32" height="32" /></a> </p>
 
 ### Stats
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapaccasilva&show_icons=true&locale=en&layout=compact" alt="anapaccasilva" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&" alt="anapaccasilva" /></p>
 
