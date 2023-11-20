@@ -1,4 +1,6 @@
-![](https://media4.giphy.com/media/uK3mEG7Yv6UhnGLNLt/200.gif) 
+<p align="center"><img src= "https://media4.giphy.com/media/uK3mEG7Yv6UhnGLNLt/200.gif" </p>
+<p align="center"><img src= "https://komarev.com/ghpvc/?username=anapaccasilva" </p>
+
 Hi! My name is Ana Paula Pacca
 -------------------------------------------------------
 
@@ -15,8 +17,6 @@ Hi! My name is Ana Paula Pacca
 
 
 ### Skills
-
-
 <p align="left">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -34,17 +34,18 @@ Hi! My name is Ana Paula Pacca
 
 
 ### Connect with me
-
 <p align="left"> <a href="https://www.github.com/anapaccasilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-paula-pacca/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wa.me/5511964963460" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-8CA4FB831E-seeklogo.com.png" width="32" height="32" /></a> </p>
 
-### Stats
-![anapaccasilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaccasilva&theme=omni&show_icons=true&hide_border=true&layout=compact)
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&theme=buefy" alt="anapaccasilva"  </p>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=anapaccasilva)
+### :bar_chart: Stats
+<div class='container'>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&theme=buefy" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaccasilva&theme=omni&show_icons=true&hide_border=true&layout=compact" /></div>
+</div>
 
 ### 😂 Here is a random joke that'll make you laugh!
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=rose)](https://readme-jokes.vercel.app/api?rose)
+<p><img src= "https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" width="332" height="332"  </p>
 
 
 <!---
