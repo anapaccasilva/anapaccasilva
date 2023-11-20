@@ -39,7 +39,7 @@ Hi! My name is Ana Paula Pacca
 
 ### Stats
 ![anapaccasilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaccasilva&theme=omni&show_icons=true&hide_border=true&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="anapaccasilva"  </p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anapaccasilva&theme=buefy" alt="anapaccasilva"  </p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=anapaccasilva)
 
