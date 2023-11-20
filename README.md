@@ -7,7 +7,7 @@ Hi! My name is Ana Paula Pacca
 ***Business Intelligence Specialist and Dataviz Developer***
 
 -------------------------------------------------------
-* 🌍 I'm 26yo and based in São Paulo, Brasil
+* 🌍 I'm 27yo, Brazilian and based in Lisbon, Portugal
 * 🌱 I’m currently learning Machine Learning
 * :speaking_head: I am a ***Business Intelligence Specialist***, with 4 years of experience in PowerBI development and KPI's management, and 9 years of experience working with financial planning and business management. My practical and academic contributions focus on efficiency and process improvement, seeking to find opportunities for optimizing results.
 * 💬 Ask me about **Python, R, SQL, M, DAX, PowerQuery, PowerBI**
