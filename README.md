@@ -34,7 +34,7 @@ Hi! My name is Ana Paula Pacca
 
 
 ### Connect with me
-<p align="left"> <a href="https://www.github.com/anapaccasilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-paula-pacca/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wa.me/5511964963460" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-8CA4FB831E-seeklogo.com.png" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/anapaccasilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-paula-pacca/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wa.me/351921384566" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-8CA4FB831E-seeklogo.com.png" width="32" height="32" /></a> </p>
 
 ### :bar_chart: Stats
 <div class='container'>
